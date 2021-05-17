@@ -1,0 +1,1 @@
+copy pwn.py to C:\Users\ling\miniconda3-64\Lib
